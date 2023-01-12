@@ -1,4 +1,9 @@
 ### Hi there 👋
+Welcome to my personal profile page!
+
+As I mostly worked on proprietary or private coding projects in the past, I'm curating some code samples at the moment to put here in the next days/weeks.
+
+Stay tuned!
 
 <!--
 **felixschroeter/felixschroeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
