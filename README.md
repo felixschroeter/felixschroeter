@@ -1,6 +1,6 @@
 Hi, I'm Felix 👋
 I'm an ML engineer with a research background, currently finishing my M.Sc. in Computer Science at TU Berlin and moving toward AI alignment and safety research.
-I've spent the last few years building and deploying machine learning systems at the frontier of biology and materials science — most recently working on protein engineering with generative models like RFdiffusion, AlphaFold, and ESM. Along the way I've worked on transfer learning for soft robotics, adversarial ML and security, and generative diffusion models.
+I've spent some time building and deploying machine learning systems at the frontier of biology and materials science — most recently working on protein engineering with generative models like RFdiffusion, AlphaFold, and ESM. Along the way I've worked on transfer learning for soft robotics, adversarial ML and security, and generative diffusion models.
 These days I'm increasingly drawn to a different set of questions. I think AI safety is one of the most impactful things to work on right now, and I find it genuinely fascinating to try to understand these models — what they're capable of, how they fail, and what their behavior tells us about intelligence itself. I'm especially interested in empirical research and mechanistic interpretability as ways to get real traction on these questions.
 
 This page is a work in progress, and so am I — more projects and writing are on the way as I move deeper into the field.
