@@ -27,4 +27,8 @@ Most my work lives in private or institutional repositories. A few examples:
 - **RFdiffusion conditioning** — bachelor's thesis work introducing conditioning mechanisms into a generative diffusion model for proteins, presented as a poster at the European Rosetta Conference 2023
 - **Adversarial ML & LLM security** — empirical investigation across vulnerability detection and adversarial robustness tasks (BIFOLD MLSEC)
 
+### Socials
+- **LinkedIn** [link](https://www.linkedin.com/in/felix-tobias-schr%C3%B6ter/)
+- **LessWrong/AI Alignment Forum** [nonergodic](https://www.lesswrong.com/users/nonergodic)
+
 *Happy to discuss any of these in more detail — just reach out.*
