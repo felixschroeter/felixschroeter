@@ -5,7 +5,7 @@ I've spent some time building and deploying machine learning systems at the fron
 
 These days I'm increasingly drawn to a different set of questions. I think AI safety is one of the most impactful things to work on right now, and I find it genuinely fascinating to try to understand these models — what they're capable of, how they fail, and what their behavior tells us about intelligence itself. I'm especially interested in empirical research and mechanistic interpretability as ways to get real traction on these questions.
 
-This page is a work in progress, and so am I — more projects and writing are on the way as I move deeper into the field.
+This page is a work in progress, more projects and writing are on the way as I move deeper into the field.
 
 ### What I'm focused on
 
