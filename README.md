@@ -16,6 +16,7 @@ This page is a work in progress, more projects and writing are on the way as I m
 
 ### A few things worth a look
 
+- **[reflex-diffing](https://github.com/felixschroeter/reflex-diffing)** _(work in progress)_ — An exploratory diff of reasoning reflexes across Phi-4-mini siblings in activation, output, and weight space. 
 - **[transferable-acoustic-sensing](https://github.com/felixschroeter/transferable-acoustic-sensing)** — research project on cross-device generalization in acoustic sensing models for soft robotic actuators, framed as a domain-adaptation problem
 - I also work on a creative research project exploring how writing and object theater can make AI alignment failures — emergent misalignment, harmful outputs, bias — physically and emotionally tangible
 
