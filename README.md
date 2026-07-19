@@ -30,6 +30,7 @@ Most my work lives in private or institutional repositories. A few examples:
 
 ### Socials
 - **LinkedIn** [link](https://www.linkedin.com/in/felix-tobias-schr%C3%B6ter/)
+- **Google Scholar** [link](https://scholar.google.com/citations?user=iN33fUYAAAAJ&hl=en)
 - **LessWrong/AI Alignment Forum** [nonergodic](https://www.lesswrong.com/users/nonergodic)
 
 *Happy to discuss any of these in more detail — just reach out.*
